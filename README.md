@@ -1,2 +1,2 @@
 # opengles-tutorial
-A simple app to demonstarte drawing shapes using openGL ES 2.0
+A simple app to demonstrate drawing shapes using openGL ES 2.0
